@@ -1,0 +1,7 @@
+print("WELCOME TO MAD LIBS!!!")
+color = input("What is your favourite colour?")
+flower = input("What is your favourite flower? (plural pls)")
+person = input("What is the name of your favorite person?")
+print("Roses are " + color)
+print(flower + " are blue")
+print("I love " + person)
